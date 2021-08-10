@@ -18,3 +18,5 @@
 }
 
 .todos li.my-todo { background: lime; }
+
+.dark .todos li.my-todo { background: darkgreen; }

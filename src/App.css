@@ -9,6 +9,11 @@
     overflow: hidden;
 }
 
+.dark {
+    background: #333;
+    color: lightgreen;
+}
+
 .App > p, .App > h1 {
     text-align: center;
 }
